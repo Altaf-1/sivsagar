@@ -145,7 +145,7 @@ input:checked + .slide-container .nav label { display: block; }
     text-align: justify;
   text-justify: inter-word;
   width: 50%;
-  padding-top: 120px;
+  padding-top: 50px;
 }
 
 .his-text{
@@ -221,4 +221,10 @@ text-align: justify;
     color: #fff;
     border-radius: 10px;
     text-decoration: none;
+}
+
+.footer{
+    margin-top: 5px;
+    background-color: black;
+    color: #fff;
 }
